@@ -574,7 +574,7 @@ exports.nameChanged = (q) => {
 
 exports.menu = (jumlahUser, level, xp, role, pushname, requiredXp, premium) => {
     return `
-*── 「 WELCOME 」 ──*
+*── 「 ITSUKI BOT 」 ──*
 
 ======================
 ➸ *Nama*: ${pushname}
